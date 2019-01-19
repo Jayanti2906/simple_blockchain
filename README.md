@@ -1,2 +1,2 @@
 # simple_blockchain
-Implemented a basic BlockChain model in Python using flask,and simple proof_of_work,consensus policies
+We intend on developing a secure, robust and scalable blockchain for Agricultural Transactions.
